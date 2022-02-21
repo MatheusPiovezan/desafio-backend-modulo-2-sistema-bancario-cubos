@@ -577,13 +577,6 @@ Esse endpoint deverá listar as transações realizadas de uma conta específica
 }
 ```
 
-## Aulas úteis:
-
--   [Rotas, Intermediários e Controladores](https://plataforma.cubos.academy/curso/6e938100-e6dd-4b5d-a018-61a62ba2429b/data/26/01/2022/aula/26aff9e8-ced7-49de-a590-7c7ef46631ab/4eba9722-1803-4743-9ff2-eee58f6c6adb)
--   [Aula API REST](https://plataforma.cubos.academy/curso/6e938100-e6dd-4b5d-a018-61a62ba2429b/data/31/01/2022/aula/90149133-d292-4d4c-a33c-7bab06a20983/18739707-0d1c-4e96-b64e-846e63014c30)
--   [Formatando datas com date-fns](https://plataforma.cubos.academy/curso/6e938100-e6dd-4b5d-a018-61a62ba2429b/data/05/01/2022/aula/a3e894ac-8c02-4cd0-bb79-73df1c6c12d8/2a2cf94d-5ef2-4e17-8219-04f7d7b4c600)
--   [Aula de objetos e funções](https://plataforma.cubos.academy/curso/6e938100-e6dd-4b5d-a018-61a62ba2429b/data/29/11/2021/aula/e6616c5e-775d-4070-ae8d-e717784d64d8/19510d39-df89-4819-89d8-4c08b0a01241)
-
 **LEMBRE-SE**: é melhor feito do que perfeito!!!
 
 ###### tags: `back-end` `módulo 2` `nodeJS` `API REST` `desafio`
